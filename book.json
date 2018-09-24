@@ -1,0 +1,22 @@
+{
+  "title": "杰科",
+  "description" : "JK" ,
+  "author" : "zhengjieke",
+  "language":"zh-hans",
+  "root" : "." ,
+
+
+
+
+    "plugins": ["donate"],
+    "pluginsConfig": {
+        "donate": {
+          "wechat": "https://raw.githubusercontent.com/ZhengJieKe/test/gh-pages/psb.jpg",
+          "title": " ",
+          "button": "打赏",
+     
+          "wechatText": "微信"
+        }
+
+    }
+}
